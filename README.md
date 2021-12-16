@@ -4,6 +4,4 @@ IBW_cold_electrons_plot: plots the dispersion function (which needs to be = 0) f
 
 IBW_cold_electrons_solve: solves the dispersion function for IBWs in the limit of cold electrons.
 
-LH_PDI_dispersion: solves the PDI dispersion relation in the LH regime. This is a Python adaptation of a Fortran code by Takase and Porkolab.
-
 fast_Wave_Disp: Solves the Fast Wave (FW) dispersion relation.
