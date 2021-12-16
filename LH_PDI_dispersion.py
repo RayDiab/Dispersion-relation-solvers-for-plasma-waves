@@ -1,3 +1,6 @@
+### Solves the PDI dispersion relation in the LH regime. 
+### This is a Python adaptation of a FORTRAN code by Takase and Porkolab.
+
 #Import all necessary modules
 import numpy as np
 import matplotlib.pyplot as plt
