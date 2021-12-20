@@ -6,4 +6,4 @@ IBW_cold_electrons_solve: solves the dispersion function for IBWs in the limit o
 
 fast_Wave_Disp: Solves the Fast Wave (FW) dispersion relation.
 
-IBW_dispersion_relation_full: solves the general IBW dispersion relation as given by Stix.
+IBW_dispersion_relation_full: solves the perfectly electrostatic IBW dispersion relation as given by Stix. 
