@@ -79,7 +79,7 @@ for i in range(7,12):
     plt.plot(sqrtbi,wsol/wci,marker = 'x')
     plt.plot(sqrtbi,np.zeros(len(sqrtbi))+i,'k--')
     
-plt.title("IBW dispersion relation", fontsize = 22)
+plt.title("IBW dispersion relation (full Stix)", fontsize = 22)
 plt.ylabel(r'$\omega / \omega_{ci}$',fontsize = 20)
 plt.xlabel(r'$k_{\perp}r_{ci}$',fontsize = 20)
 plt.legend(fontsize = 20)
